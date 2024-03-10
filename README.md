@@ -3,6 +3,4 @@
    * https://b9a4-nuhu.netlify.app
    * https://b9a4-nuhu.surge.sh 
 
-# File list 
-
-    *    
+<!-- # File list -->
